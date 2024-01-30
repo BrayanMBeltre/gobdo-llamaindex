@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "llamaindex-ollama"
+version = "0.1.0"
+description = ""
+authors = ["Brayan M. Beltre <brayanmbeltre@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.31.0"
+llama-index = "^0.9.46"
+transformers = "^4.37.2"
+torch = "^2.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+main = 'main:main'
+ollama = 'main:ollama'
