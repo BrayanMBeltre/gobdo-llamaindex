@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Cambio de Nombre Empresas de Ley 56-07",
+    "description": "Cambio de Nombre Empresas de Ley 56-07",
+    "slug": "cambio-de-nombre-empresas-de-ley-56-07",
+    "type": "Interactivo",
+    "institutionName": "Consejo Nacional de Zonas Francas de Exportación",
+    "institutionPhone": "8096868077"
+  },
+  {
+    "name": "Carta de No Objeción para Emisión de Carnet de ITBIS",
+    "description": "Carta de No Objeción para Emisión de Carnet de ITBIS",
+    "slug": "carta-de-no-objecion-para-emision-de-carnet-de-itbis",
+    "type": "Interactivo",
+    "institutionName": "Consejo Nacional de Zonas Francas de Exportación",
+    "institutionPhone": "8096868077"
+  },
+  {
+    "name": "Certificación de Copia de Resolución",
+    "description": "Certificación de Copia de Resolución",
+    "slug": "certificacion-de-copia-de-resolucion",
+    "type": "Interactivo",
+    "institutionName": "Consejo Nacional de Zonas Francas de Exportación",
+    "institutionPhone": "8096868077"
+  },
+  {
+    "name": "Certificación Empresas Ley 56-07 (Regular)",
+    "description": "Certificación Empresas Ley 56-07 (Regular)",
+    "slug": "certificacion-empresas-ley-56-07-regular",
+    "type": "Interactivo",
+    "institutionName": "Consejo Nacional de Zonas Francas de Exportación",
+    "institutionPhone": "8096868077"
+  },
+  {
+    "name": "Certificación de Estatus de Parque o Empresa de Zona Franca (Regular)",
+    "description": "Certificación de Estatus de Parque o Empresa de Zona Franca (Regular)",
+    "slug": "certificacion-de-estatus-de-parque-o-empresa-de-zona-franca-regular",
+    "type": "Interactivo",
+    "institutionName": "Consejo Nacional de Zonas Francas de Exportación",
+    "institutionPhone": "8096868077"
+  },
+  {
+    "name": "Certificación para Empresas Condicionadas",
+    "description": "Certificación para Empresas Condicionadas",
+    "slug": "certificacion-para-empresas-condicionadas",
+    "type": "Interactivo",
+    "institutionName": "Consejo Nacional de Zonas Francas de Exportación",
+    "institutionPhone": "8096868077"
+  },
+  {
+    "name": "Reembolso de Combustible (Fuel-Oil y Gas Natural)",
+    "description": "Reembolso de Combustible (Fuel-Oil y Gas Natural)",
+    "slug": "reembolso-de-combustible-fuel-oil-y-gas-natural",
+    "type": "Interactivo",
+    "institutionName": "Consejo Nacional de Zonas Francas de Exportación",
+    "institutionPhone": "8096868077"
+  },
+  {
+    "name": "Consultas de Áreas Geográficas Disponibles Para Solicitudes de Concesiones Minera",
+    "description": "Consultas de Áreas Geográficas Disponibles Para Solicitudes de Concesiones Minera",
+    "slug": "consultas-de-areas-geograficas-disponibles-para-solicitudes-de-concesiones-minera",
+    "type": "Interactivo",
+    "institutionName": "Dirección General de Minería",
+    "institutionPhone": "8096858191"
+  },
+  {
+    "name": "Solicitud Carta de No Objeción de Voladuras",
+    "description": "Solicitud Carta de No Objeción de Voladuras",
+    "slug": "solicitud-carta-de-no-objecion-de-voladuras",
+    "type": "Interactivo",
+    "institutionName": "Dirección General de Minería",
+    "institutionPhone": "8096858191"
+  },
+  {
+    "name": "Inscripción y Licencia para Operar Servicios Privados de Radiocomunicaciones o Servicios Móviles Aeronáuticos",
+    "description": "Inscripción y Licencia para Operar Servicios Privados de Radiocomunicaciones o Servicios Móviles Aeronáuticos",
+    "slug": "inscripcion-y-licencia-para-operar-servicios-privados-de-radiocomunicaciones-o-servicios-moviles-aeronauticos",
+    "type": "Interactivo",
+    "institutionName": "Instituto Dominicano de las Telecomunicaciones",
+    "institutionPhone": "8297325555"
+  },
+  {
+    "name": "Solicitud de Inscripción de Contratos Diversos de Derechos Mineros",
+    "description": "Solicitud de Inscripción de Contratos Diversos de Derechos Mineros",
+    "slug": "solicitud-de-inscripcion-de-contratos-diversos-de-derechos-mineros",
+    "type": "Interactivo",
+    "institutionName": "Dirección General de Minería",
+    "institutionPhone": "8096858191"
+  },
+  {
+    "name": "Cartas de Aprobación Nacional para Proyectos del Mecanismo de Desarrollo Limpio",
+    "description": "Cartas de Aprobación Nacional para Proyectos del Mecanismo de Desarrollo Limpio",
+    "slug": "cartas-de-aprobacion-nacional-para-proyectos-del-mecanismo-de-desarrollo-limpio",
+    "type": "Interactivo",
+    "institutionName": "Consejo Nacional para el Cambio Climático y Mecanismo de Desarrollo Limpio",
+    "institutionPhone": "8094720537"
+  }
+]

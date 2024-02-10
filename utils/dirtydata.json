@@ -1,0 +1,904 @@
+{
+    "data": [
+        {
+            "service_code": null,
+            "area_service": {
+                "id": 135,
+                "name": "Industria, Comercio y MIPYMES",
+                "slug": "Industria, Comercio y MIPYMES",
+                "description": "Regulaci\u00f3n y fomento de las actividades industriales y comerciales, incluyendo el apoyo a la MIPYMES.",
+                "created_at": "2023-03-03T15:06:26.000000Z",
+                "updated_at": "2023-10-20T18:20:58.000000Z",
+                "deleted_at": null,
+                "view_number": 0,
+                "image": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/3fa3b63f-92a4-4ba8-909b-1281f62dfcbb-IndustriaComercioyMipymes_2x.png",
+                "image_movil": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/f999bf52-82b0-41ae-85c1-b3353bb1db78-IndustriaComercioyMipymes_2x.png"
+            },
+            "slug": "cambio-de-nombre-empresas-de-ley-56-07",
+            "service_name": "Cambio de Nombre Empresas de Ley 56-07",
+            "institution_name": "Consejo Nacional de Zonas Francas de Exportaci\u00f3n",
+            "description": "Autorizaci\u00f3n otorgada por el Consejo Directivo del CNZFE, para cambio de nombre a empresas clasificadas bajo la Ley 56-07",
+            "visited": 992,
+            "is_chained": 0,
+            "is_web_mode": 1,
+            "is_phone_mode": 1,
+            "is_person_mode": 0,
+            "price": [
+                {
+                    "id": 7923,
+                    "concept": "Costo del servicio",
+                    "description": "Cambio de Nombre Empresas de Ley 56-07",
+                    "variations": [
+                        {
+                            "id": 9897,
+                            "concept": "Costo del servicio",
+                            "description": "Cambio de Nombre Empresas de Ley 56-07",
+                            "price": "10000.00",
+                            "required": 0,
+                            "coin": {
+                                "id": 2,
+                                "name": "Pesos",
+                                "short_name": "DOP",
+                                "symbol": "RD$",
+                                "created_at": "2022-08-29T21:22:21.000000Z",
+                                "updated_at": "2022-08-29T21:22:21.000000Z",
+                                "deleted_at": null
+                            },
+                            "days": 5,
+                            "hours": 0,
+                            "months": 0
+                        }
+                    ]
+                }
+            ],
+            "institution_logo": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/a866cbe7-0f83-401a-9e55-16ec6df40545-cupula.png",
+            "institution_phone": "8096868077",
+            "service_type": "Interactivo",
+            "show_default": null,
+            "evaluation": null,
+            "sort_order": "0.00",
+            "punto_gob": [],
+            "classified": [
+                {
+                    "id": 3,
+                    "name": "Gobierno-Ciudadano",
+                    "description": "Gobierno-Ciudadano",
+                    "created_at": "2023-04-25T00:37:06.000000Z",
+                    "updated_at": "2023-04-25T00:37:06.000000Z",
+                    "image": null,
+                    "pivot": {
+                        "service_id": 1,
+                        "classified_id": 3
+                    }
+                }
+            ]
+        },
+        {
+            "service_code": null,
+            "area_service": {
+                "id": 135,
+                "name": "Industria, Comercio y MIPYMES",
+                "slug": "Industria, Comercio y MIPYMES",
+                "description": "Regulaci\u00f3n y fomento de las actividades industriales y comerciales, incluyendo el apoyo a la MIPYMES.",
+                "created_at": "2023-03-03T15:06:26.000000Z",
+                "updated_at": "2023-10-20T18:20:58.000000Z",
+                "deleted_at": null,
+                "view_number": 0,
+                "image": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/3fa3b63f-92a4-4ba8-909b-1281f62dfcbb-IndustriaComercioyMipymes_2x.png",
+                "image_movil": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/f999bf52-82b0-41ae-85c1-b3353bb1db78-IndustriaComercioyMipymes_2x.png"
+            },
+            "slug": "carta-de-no-objecion-para-emision-de-carnet-de-itbis",
+            "service_name": "Carta de No Objeci\u00f3n para Emisi\u00f3n de Carnet de ITBIS",
+            "institution_name": "Consejo Nacional de Zonas Francas de Exportaci\u00f3n",
+            "description": "Emisi\u00f3n carta dirigida al Ministerio de Hacienda informando que el CNZFE, no tiene objeci\u00f3n a que se le emita el Carnet de Exenci\u00f3n de ITBIS.",
+            "visited": 924,
+            "is_chained": 0,
+            "is_web_mode": 1,
+            "is_phone_mode": 1,
+            "is_person_mode": 0,
+            "price": [
+                {
+                    "id": 8024,
+                    "concept": "Carta de No Objeci\u00f3n para Emisi\u00f3n de Carnet de ITBIS",
+                    "description": "Carta de No Objeci\u00f3n para Emisi\u00f3n de Carnet de ITBIS",
+                    "variations": [
+                        {
+                            "id": 10016,
+                            "concept": "Costo del servicio",
+                            "description": "El tiempo de realizaci\u00f3n de los servicios por esta modalidad es de 24 horas laborables.",
+                            "price": "15000.00",
+                            "required": 0,
+                            "coin": {
+                                "id": 2,
+                                "name": "Pesos",
+                                "short_name": "DOP",
+                                "symbol": "RD$",
+                                "created_at": "2022-08-29T21:22:21.000000Z",
+                                "updated_at": "2022-08-29T21:22:21.000000Z",
+                                "deleted_at": null
+                            },
+                            "days": 0,
+                            "hours": 24,
+                            "months": 0
+                        }
+                    ]
+                }
+            ],
+            "institution_logo": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/a866cbe7-0f83-401a-9e55-16ec6df40545-cupula.png",
+            "institution_phone": "8096868077",
+            "service_type": "Interactivo",
+            "show_default": null,
+            "evaluation": null,
+            "sort_order": "0.00",
+            "punto_gob": [],
+            "classified": [
+                {
+                    "id": 3,
+                    "name": "Gobierno-Ciudadano",
+                    "description": "Gobierno-Ciudadano",
+                    "created_at": "2023-04-25T00:37:06.000000Z",
+                    "updated_at": "2023-04-25T00:37:06.000000Z",
+                    "image": null,
+                    "pivot": {
+                        "service_id": 2,
+                        "classified_id": 3
+                    }
+                }
+            ]
+        },
+        {
+            "service_code": null,
+            "area_service": {
+                "id": 135,
+                "name": "Industria, Comercio y MIPYMES",
+                "slug": "Industria, Comercio y MIPYMES",
+                "description": "Regulaci\u00f3n y fomento de las actividades industriales y comerciales, incluyendo el apoyo a la MIPYMES.",
+                "created_at": "2023-03-03T15:06:26.000000Z",
+                "updated_at": "2023-10-20T18:20:58.000000Z",
+                "deleted_at": null,
+                "view_number": 0,
+                "image": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/3fa3b63f-92a4-4ba8-909b-1281f62dfcbb-IndustriaComercioyMipymes_2x.png",
+                "image_movil": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/f999bf52-82b0-41ae-85c1-b3353bb1db78-IndustriaComercioyMipymes_2x.png"
+            },
+            "slug": "certificacion-de-copia-de-resolucion",
+            "service_name": "Certificaci\u00f3n de Copia de Resoluci\u00f3n",
+            "institution_name": "Consejo Nacional de Zonas Francas de Exportaci\u00f3n",
+            "description": "Certificar que una copia es fiel y conforme a la original que reposa en nuestros archivos.",
+            "visited": 302,
+            "is_chained": 0,
+            "is_web_mode": 1,
+            "is_phone_mode": 1,
+            "is_person_mode": 0,
+            "price": [
+                {
+                    "id": 8030,
+                    "concept": "Certificaci\u00f3n Para Copia de Resoluci\u00f3n",
+                    "description": "Certificaci\u00f3n Para Copia de Resoluci\u00f3n",
+                    "variations": [
+                        {
+                            "id": 10024,
+                            "concept": "Certificaci\u00f3n Para Copia de Resoluci\u00f3n",
+                            "description": "Certificaci\u00f3n Para Copia de Resoluci\u00f3n",
+                            "price": "1800.00",
+                            "required": 0,
+                            "coin": {
+                                "id": 2,
+                                "name": "Pesos",
+                                "short_name": "DOP",
+                                "symbol": "RD$",
+                                "created_at": "2022-08-29T21:22:21.000000Z",
+                                "updated_at": "2022-08-29T21:22:21.000000Z",
+                                "deleted_at": null
+                            },
+                            "days": 0,
+                            "hours": 0,
+                            "months": 0
+                        }
+                    ]
+                }
+            ],
+            "institution_logo": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/a866cbe7-0f83-401a-9e55-16ec6df40545-cupula.png",
+            "institution_phone": "8096868077",
+            "service_type": "Interactivo",
+            "show_default": null,
+            "evaluation": null,
+            "sort_order": "0.00",
+            "punto_gob": [],
+            "classified": []
+        },
+        {
+            "service_code": null,
+            "area_service": {
+                "id": 135,
+                "name": "Industria, Comercio y MIPYMES",
+                "slug": "Industria, Comercio y MIPYMES",
+                "description": "Regulaci\u00f3n y fomento de las actividades industriales y comerciales, incluyendo el apoyo a la MIPYMES.",
+                "created_at": "2023-03-03T15:06:26.000000Z",
+                "updated_at": "2023-10-20T18:20:58.000000Z",
+                "deleted_at": null,
+                "view_number": 0,
+                "image": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/3fa3b63f-92a4-4ba8-909b-1281f62dfcbb-IndustriaComercioyMipymes_2x.png",
+                "image_movil": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/f999bf52-82b0-41ae-85c1-b3353bb1db78-IndustriaComercioyMipymes_2x.png"
+            },
+            "slug": "certificacion-empresas-ley-56-07-regular",
+            "service_name": "Certificaci\u00f3n Empresas Ley 56-07 (Regular)",
+            "institution_name": "Consejo Nacional de Zonas Francas de Exportaci\u00f3n",
+            "description": "Certificar que una empresa se encuentra clasificada para operar amparada bajo el r\u00e9gimen de la Ley 56-07.",
+            "visited": 271,
+            "is_chained": 0,
+            "is_web_mode": 1,
+            "is_phone_mode": 1,
+            "is_person_mode": 0,
+            "price": [
+                {
+                    "id": 8025,
+                    "concept": "Costo del servicio",
+                    "description": "Certificaci\u00f3n Empresas Ley 56-07",
+                    "variations": [
+                        {
+                            "id": 10017,
+                            "concept": "Regular",
+                            "description": "El tiempo de realizaci\u00f3n de los servicios por esta modalidad es de 5 d\u00edas laborables.",
+                            "price": "1200.00",
+                            "required": 0,
+                            "coin": {
+                                "id": 2,
+                                "name": "Pesos",
+                                "short_name": "DOP",
+                                "symbol": "RD$",
+                                "created_at": "2022-08-29T21:22:21.000000Z",
+                                "updated_at": "2022-08-29T21:22:21.000000Z",
+                                "deleted_at": null
+                            },
+                            "days": 5,
+                            "hours": 0,
+                            "months": 0
+                        },
+                        {
+                            "id": 10018,
+                            "concept": "Expreso",
+                            "description": "El tiempo de realizaci\u00f3n de los servicios por esta modalidad es de 24 horas laborables.",
+                            "price": "1800.00",
+                            "required": 0,
+                            "coin": {
+                                "id": 2,
+                                "name": "Pesos",
+                                "short_name": "DOP",
+                                "symbol": "RD$",
+                                "created_at": "2022-08-29T21:22:21.000000Z",
+                                "updated_at": "2022-08-29T21:22:21.000000Z",
+                                "deleted_at": null
+                            },
+                            "days": 0,
+                            "hours": 24,
+                            "months": 0
+                        }
+                    ]
+                }
+            ],
+            "institution_logo": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/a866cbe7-0f83-401a-9e55-16ec6df40545-cupula.png",
+            "institution_phone": "8096868077",
+            "service_type": "Interactivo",
+            "show_default": null,
+            "evaluation": null,
+            "sort_order": "0.00",
+            "punto_gob": [],
+            "classified": [
+                {
+                    "id": 3,
+                    "name": "Gobierno-Ciudadano",
+                    "description": "Gobierno-Ciudadano",
+                    "created_at": "2023-04-25T00:37:06.000000Z",
+                    "updated_at": "2023-04-25T00:37:06.000000Z",
+                    "image": null,
+                    "pivot": {
+                        "service_id": 4,
+                        "classified_id": 3
+                    }
+                }
+            ]
+        },
+        {
+            "service_code": null,
+            "area_service": {
+                "id": 135,
+                "name": "Industria, Comercio y MIPYMES",
+                "slug": "Industria, Comercio y MIPYMES",
+                "description": "Regulaci\u00f3n y fomento de las actividades industriales y comerciales, incluyendo el apoyo a la MIPYMES.",
+                "created_at": "2023-03-03T15:06:26.000000Z",
+                "updated_at": "2023-10-20T18:20:58.000000Z",
+                "deleted_at": null,
+                "view_number": 0,
+                "image": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/3fa3b63f-92a4-4ba8-909b-1281f62dfcbb-IndustriaComercioyMipymes_2x.png",
+                "image_movil": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/f999bf52-82b0-41ae-85c1-b3353bb1db78-IndustriaComercioyMipymes_2x.png"
+            },
+            "slug": "certificacion-de-estatus-de-parque-o-empresa-de-zona-franca-regular",
+            "service_name": "Certificaci\u00f3n de Estatus de Parque o Empresa de Zona Franca (Regular)",
+            "institution_name": "Consejo Nacional de Zonas Francas de Exportaci\u00f3n",
+            "description": "Certificar cu\u00e1l es el estado de un parque o empresa de Zona Franca en nuestra base de datos.",
+            "visited": 217,
+            "is_chained": 0,
+            "is_web_mode": 1,
+            "is_phone_mode": 1,
+            "is_person_mode": 0,
+            "price": [
+                {
+                    "id": 8026,
+                    "concept": "Certificaci\u00f3n estatus de parque o empresa de zona franca",
+                    "description": "Certificaci\u00f3n estatus de parque o empresa de zona franca",
+                    "variations": [
+                        {
+                            "id": 10019,
+                            "concept": "Expreso",
+                            "description": "El tiempo de realizaci\u00f3n de los servicios por esta modalidad es de 24 horas laborables.",
+                            "price": "1800.00",
+                            "required": 0,
+                            "coin": {
+                                "id": 2,
+                                "name": "Pesos",
+                                "short_name": "DOP",
+                                "symbol": "RD$",
+                                "created_at": "2022-08-29T21:22:21.000000Z",
+                                "updated_at": "2022-08-29T21:22:21.000000Z",
+                                "deleted_at": null
+                            },
+                            "days": 0,
+                            "hours": 24,
+                            "months": 0
+                        },
+                        {
+                            "id": 10020,
+                            "concept": "Regular",
+                            "description": "El tiempo de realizaci\u00f3n de los servicios por esta modalidad es de 5 d\u00edas laborables.",
+                            "price": "1200.00",
+                            "required": 0,
+                            "coin": {
+                                "id": 2,
+                                "name": "Pesos",
+                                "short_name": "DOP",
+                                "symbol": "RD$",
+                                "created_at": "2022-08-29T21:22:21.000000Z",
+                                "updated_at": "2022-08-29T21:22:21.000000Z",
+                                "deleted_at": null
+                            },
+                            "days": 5,
+                            "hours": 0,
+                            "months": 0
+                        }
+                    ]
+                }
+            ],
+            "institution_logo": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/a866cbe7-0f83-401a-9e55-16ec6df40545-cupula.png",
+            "institution_phone": "8096868077",
+            "service_type": "Interactivo",
+            "show_default": null,
+            "evaluation": null,
+            "sort_order": "0.00",
+            "punto_gob": [],
+            "classified": [
+                {
+                    "id": 3,
+                    "name": "Gobierno-Ciudadano",
+                    "description": "Gobierno-Ciudadano",
+                    "created_at": "2023-04-25T00:37:06.000000Z",
+                    "updated_at": "2023-04-25T00:37:06.000000Z",
+                    "image": null,
+                    "pivot": {
+                        "service_id": 5,
+                        "classified_id": 3
+                    }
+                }
+            ]
+        },
+        {
+            "service_code": null,
+            "area_service": {
+                "id": 135,
+                "name": "Industria, Comercio y MIPYMES",
+                "slug": "Industria, Comercio y MIPYMES",
+                "description": "Regulaci\u00f3n y fomento de las actividades industriales y comerciales, incluyendo el apoyo a la MIPYMES.",
+                "created_at": "2023-03-03T15:06:26.000000Z",
+                "updated_at": "2023-10-20T18:20:58.000000Z",
+                "deleted_at": null,
+                "view_number": 0,
+                "image": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/3fa3b63f-92a4-4ba8-909b-1281f62dfcbb-IndustriaComercioyMipymes_2x.png",
+                "image_movil": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/f999bf52-82b0-41ae-85c1-b3353bb1db78-IndustriaComercioyMipymes_2x.png"
+            },
+            "slug": "certificacion-para-empresas-condicionadas",
+            "service_name": "Certificaci\u00f3n para Empresas Condicionadas",
+            "institution_name": "Consejo Nacional de Zonas Francas de Exportaci\u00f3n",
+            "description": "Certificaciones, resoluciones y autorizaciones a empresas u operadoras de zonas francas, cuando las mismas poseen su permiso de instalaci\u00f3n condicionado, debido a documentos y\/o asuntos pendientes.",
+            "visited": 194,
+            "is_chained": 0,
+            "is_web_mode": 1,
+            "is_phone_mode": 1,
+            "is_person_mode": 0,
+            "price": [
+                {
+                    "id": 8124,
+                    "concept": "Certificaci\u00f3n para Empresas Condicionadas",
+                    "description": "Certificaci\u00f3n para Empresas Condicionadas",
+                    "variations": [
+                        {
+                            "id": 10125,
+                            "concept": "Expreso",
+                            "description": "El tiempo de realizaci\u00f3n de los servicios por esta modalidad es de 24 horas laborables.",
+                            "price": "3000.00",
+                            "required": 0,
+                            "coin": {
+                                "id": 2,
+                                "name": "Pesos",
+                                "short_name": "DOP",
+                                "symbol": "RD$",
+                                "created_at": "2022-08-29T21:22:21.000000Z",
+                                "updated_at": "2022-08-29T21:22:21.000000Z",
+                                "deleted_at": null
+                            },
+                            "days": 0,
+                            "hours": 24,
+                            "months": 0
+                        },
+                        {
+                            "id": 10126,
+                            "concept": "Regular",
+                            "description": "El tiempo de realizaci\u00f3n de los servicios por esta modalidad es de 5 d\u00edas laborables.",
+                            "price": "2400.00",
+                            "required": 0,
+                            "coin": {
+                                "id": 2,
+                                "name": "Pesos",
+                                "short_name": "DOP",
+                                "symbol": "RD$",
+                                "created_at": "2022-08-29T21:22:21.000000Z",
+                                "updated_at": "2022-08-29T21:22:21.000000Z",
+                                "deleted_at": null
+                            },
+                            "days": 5,
+                            "hours": 0,
+                            "months": 0
+                        }
+                    ]
+                }
+            ],
+            "institution_logo": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/a866cbe7-0f83-401a-9e55-16ec6df40545-cupula.png",
+            "institution_phone": "8096868077",
+            "service_type": "Interactivo",
+            "show_default": null,
+            "evaluation": null,
+            "sort_order": "0.00",
+            "punto_gob": [],
+            "classified": [
+                {
+                    "id": 3,
+                    "name": "Gobierno-Ciudadano",
+                    "description": "Gobierno-Ciudadano",
+                    "created_at": "2023-04-25T00:37:06.000000Z",
+                    "updated_at": "2023-04-25T00:37:06.000000Z",
+                    "image": null,
+                    "pivot": {
+                        "service_id": 6,
+                        "classified_id": 3
+                    }
+                }
+            ]
+        },
+        {
+            "service_code": null,
+            "area_service": {
+                "id": 135,
+                "name": "Industria, Comercio y MIPYMES",
+                "slug": "Industria, Comercio y MIPYMES",
+                "description": "Regulaci\u00f3n y fomento de las actividades industriales y comerciales, incluyendo el apoyo a la MIPYMES.",
+                "created_at": "2023-03-03T15:06:26.000000Z",
+                "updated_at": "2023-10-20T18:20:58.000000Z",
+                "deleted_at": null,
+                "view_number": 0,
+                "image": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/3fa3b63f-92a4-4ba8-909b-1281f62dfcbb-IndustriaComercioyMipymes_2x.png",
+                "image_movil": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/f999bf52-82b0-41ae-85c1-b3353bb1db78-IndustriaComercioyMipymes_2x.png"
+            },
+            "slug": "reembolso-de-combustible-fuel-oil-y-gas-natural",
+            "service_name": "Reembolso de Combustible (Fuel-Oil y Gas Natural)",
+            "institution_name": "Consejo Nacional de Zonas Francas de Exportaci\u00f3n",
+            "description": "Autorizaci\u00f3n a empresas de Zonas Francas y de la Ley 56-07 para adquirir fuel oil y gas natural utilizado en su proceso de producci\u00f3n, libre del pago de impuestos, por un per\u00edodo de 3 meses. En caso de ser su primera solicitud, la misma requerir\u00e1 una inspecci\u00f3n t\u00e9cnica de las instalaciones.",
+            "visited": 131,
+            "is_chained": 0,
+            "is_web_mode": 1,
+            "is_phone_mode": 1,
+            "is_person_mode": 0,
+            "price": [
+                {
+                    "id": 8028,
+                    "concept": "Costo del servicio",
+                    "description": "Reembolso de Combustible (Fuel-Oil y Gas Natural)",
+                    "variations": [
+                        {
+                            "id": 10022,
+                            "concept": "Costo del servicio",
+                            "description": "Reembolso de Combustible (Fuel-Oil y Gas Natural)",
+                            "price": "1800.00",
+                            "required": 0,
+                            "coin": {
+                                "id": 2,
+                                "name": "Pesos",
+                                "short_name": "DOP",
+                                "symbol": "RD$",
+                                "created_at": "2022-08-29T21:22:21.000000Z",
+                                "updated_at": "2022-08-29T21:22:21.000000Z",
+                                "deleted_at": null
+                            },
+                            "days": 0,
+                            "hours": 24,
+                            "months": 0
+                        }
+                    ]
+                }
+            ],
+            "institution_logo": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/a866cbe7-0f83-401a-9e55-16ec6df40545-cupula.png",
+            "institution_phone": "8096868077",
+            "service_type": "Interactivo",
+            "show_default": null,
+            "evaluation": null,
+            "sort_order": "0.00",
+            "punto_gob": [],
+            "classified": [
+                {
+                    "id": 3,
+                    "name": "Gobierno-Ciudadano",
+                    "description": "Gobierno-Ciudadano",
+                    "created_at": "2023-04-25T00:37:06.000000Z",
+                    "updated_at": "2023-04-25T00:37:06.000000Z",
+                    "image": null,
+                    "pivot": {
+                        "service_id": 9,
+                        "classified_id": 3
+                    }
+                }
+            ]
+        },
+        {
+            "service_code": null,
+            "area_service": {
+                "id": 152,
+                "name": "Energ\u00eda y Minas",
+                "slug": "Energ\u00eda y Minas",
+                "description": "Gesti\u00f3n de la generaci\u00f3n y distribuci\u00f3n de la energ\u00eda el\u00e9ctrica, as\u00ed como los recursos mineros.",
+                "created_at": "2023-03-06T19:18:26.000000Z",
+                "updated_at": "2023-10-20T18:19:45.000000Z",
+                "deleted_at": null,
+                "view_number": 0,
+                "image": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/2a3a1e84-40e1-4288-8ca2-dc19f7b0a7f1-Energi\u0301ayMinas_2x.png",
+                "image_movil": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/b714f4ba-8bbb-474c-a8d0-cbfeaeb4d092-Energi\u0301ayMinas_2x.png"
+            },
+            "slug": "consultas-de-areas-geograficas-disponibles-para-solicitudes-de-concesiones-minera",
+            "service_name": "Consultas de \u00c1reas Geogr\u00e1ficas Disponibles Para Solicitudes de Concesiones Minera",
+            "institution_name": "Direcci\u00f3n General de Miner\u00eda",
+            "description": "Facilidad de Acceso al ciudadano para verificar el plano de derechos mineros, registrados en el catastro minero el cual es actualizado diario, para verificar las \u00e1reas geogr\u00e1ficas, disponibles para solicitudes de concesi\u00f3n, mediante las hojas topogr\u00e1ficas del catastro minero.",
+            "visited": 248,
+            "is_chained": 0,
+            "is_web_mode": 1,
+            "is_phone_mode": 1,
+            "is_person_mode": 0,
+            "price": [],
+            "institution_logo": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/14469a3c-93a2-4680-9b55-8220a4203a97-cupula.png",
+            "institution_phone": "8096858191",
+            "service_type": "Interactivo",
+            "show_default": null,
+            "evaluation": null,
+            "sort_order": "0.00",
+            "punto_gob": [],
+            "classified": []
+        },
+        {
+            "service_code": null,
+            "area_service": {
+                "id": 152,
+                "name": "Energ\u00eda y Minas",
+                "slug": "Energ\u00eda y Minas",
+                "description": "Gesti\u00f3n de la generaci\u00f3n y distribuci\u00f3n de la energ\u00eda el\u00e9ctrica, as\u00ed como los recursos mineros.",
+                "created_at": "2023-03-06T19:18:26.000000Z",
+                "updated_at": "2023-10-20T18:19:45.000000Z",
+                "deleted_at": null,
+                "view_number": 0,
+                "image": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/2a3a1e84-40e1-4288-8ca2-dc19f7b0a7f1-Energi\u0301ayMinas_2x.png",
+                "image_movil": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/b714f4ba-8bbb-474c-a8d0-cbfeaeb4d092-Energi\u0301ayMinas_2x.png"
+            },
+            "slug": "solicitud-carta-de-no-objecion-de-voladuras",
+            "service_name": "Solicitud Carta de No Objeci\u00f3n de Voladuras",
+            "institution_name": "Direcci\u00f3n General de Miner\u00eda",
+            "description": "Consiste en la entrega de una carta al concesionario minero bajo la ley 146-71, donde se expresa la No Objeci\u00f3n de la Direcci\u00f3n General de Miner\u00eda para que contin\u00fae los tr\u00e1mites ante el Ministerio de Defensa, a fin de realizar voladuras para la extracci\u00f3n de minerales dentro del pol\u00edgono de su concesi\u00f3n minera. Los t\u00e9cnicos de la Direcci\u00f3n General de Miner\u00eda verificar\u00e1n que la voladura a realizar no implique alg\u00fan tipo de riesgo a los trabajadores y al p\u00fablico.",
+            "visited": 193,
+            "is_chained": 0,
+            "is_web_mode": 1,
+            "is_phone_mode": 1,
+            "is_person_mode": 0,
+            "price": [
+                {
+                    "id": 8173,
+                    "concept": "Gratis",
+                    "description": "Gratis",
+                    "variations": []
+                }
+            ],
+            "institution_logo": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/14469a3c-93a2-4680-9b55-8220a4203a97-cupula.png",
+            "institution_phone": "8096858191",
+            "service_type": "Interactivo",
+            "show_default": null,
+            "evaluation": null,
+            "sort_order": "0.00",
+            "punto_gob": [],
+            "classified": []
+        },
+        {
+            "service_code": null,
+            "area_service": {
+                "id": 148,
+                "name": "Presidencia",
+                "slug": "Presidencia",
+                "description": "Gesti\u00f3n de las pol\u00edticas presidenciales de gobierno.",
+                "created_at": "2023-03-05T21:52:28.000000Z",
+                "updated_at": "2023-10-20T18:23:11.000000Z",
+                "deleted_at": null,
+                "view_number": 0,
+                "image": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/af3ef1cc-fb65-42cf-b1f1-4d3811863ad5-Presidencia_2x.png",
+                "image_movil": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/66ee59c1-3727-4d55-8888-9571b732e0f6-Presidencia_2x.png"
+            },
+            "slug": "inscripcion-y-licencia-para-operar-servicios-privados-de-radiocomunicaciones-o-servicios-moviles-aeronauticos",
+            "service_name": "Inscripci\u00f3n y Licencia para Operar Servicios Privados de Radiocomunicaciones o Servicios M\u00f3viles Aeron\u00e1uticos",
+            "institution_name": "Instituto Dominicano de las Telecomunicaciones",
+            "description": "Es una autorizaci\u00f3n mediante la cual el Indotel otorga el derecho a operar servicios privados de telecomunicaciones o a realizar actividades relacionadas a la operaci\u00f3n de servicios m\u00f3viles aeron\u00e1uticos y de los servicios privados de radiocomunicaciones.",
+            "visited": 288,
+            "is_chained": 0,
+            "is_web_mode": 1,
+            "is_phone_mode": 0,
+            "is_person_mode": 0,
+            "price": [
+                {
+                    "id": 8185,
+                    "concept": "Pago de Servicio",
+                    "description": "Inscripci\u00f3n y Licencia para Operar Servicios Privados de Radiocomunicaciones o Servicios M\u00f3viles Aeron\u00e1uticos.",
+                    "variations": [
+                        {
+                            "id": 10188,
+                            "concept": "Inscripci\u00f3n y Licencia para la Operaci\u00f3n de Servicios Privados de Radiocomunicaciones",
+                            "description": "Inscripci\u00f3n y Licencia para la Operaci\u00f3n de Servicios Privados de Radiocomunicaciones",
+                            "price": "20000.00",
+                            "required": 0,
+                            "coin": {
+                                "id": 2,
+                                "name": "Pesos",
+                                "short_name": "DOP",
+                                "symbol": "RD$",
+                                "created_at": "2022-08-29T21:22:21.000000Z",
+                                "updated_at": "2022-08-29T21:22:21.000000Z",
+                                "deleted_at": null
+                            },
+                            "days": 55,
+                            "hours": 0,
+                            "months": 0
+                        }
+                    ]
+                }
+            ],
+            "institution_logo": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/1521c469-4d42-4a89-bd18-e3ecc1080df4-cupula.png",
+            "institution_phone": "8297325555",
+            "service_type": "Interactivo",
+            "show_default": null,
+            "evaluation": null,
+            "sort_order": "0.00",
+            "punto_gob": [],
+            "classified": []
+        },
+        {
+            "service_code": null,
+            "area_service": {
+                "id": 152,
+                "name": "Energ\u00eda y Minas",
+                "slug": "Energ\u00eda y Minas",
+                "description": "Gesti\u00f3n de la generaci\u00f3n y distribuci\u00f3n de la energ\u00eda el\u00e9ctrica, as\u00ed como los recursos mineros.",
+                "created_at": "2023-03-06T19:18:26.000000Z",
+                "updated_at": "2023-10-20T18:19:45.000000Z",
+                "deleted_at": null,
+                "view_number": 0,
+                "image": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/2a3a1e84-40e1-4288-8ca2-dc19f7b0a7f1-Energi\u0301ayMinas_2x.png",
+                "image_movil": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/b714f4ba-8bbb-474c-a8d0-cbfeaeb4d092-Energi\u0301ayMinas_2x.png"
+            },
+            "slug": "solicitud-de-inscripcion-de-contratos-diversos-de-derechos-mineros",
+            "service_name": "Solicitud de Inscripci\u00f3n de Contratos Diversos de Derechos Mineros",
+            "institution_name": "Direcci\u00f3n General de Miner\u00eda",
+            "description": "Consiste en inscribir en el libro de Contratos Diversos del Registro P\u00fablico de Derechos Mineros, los diferentes actos relativos a solicitudes de concesiones mineras, concesiones mineras otorgadas y contratos especiales.",
+            "visited": 142,
+            "is_chained": 0,
+            "is_web_mode": 1,
+            "is_phone_mode": 1,
+            "is_person_mode": 0,
+            "price": [
+                {
+                    "id": 8174,
+                    "concept": "Costo del servicio",
+                    "description": "Inscripci\u00f3n de Contratos Diversos de Derechos Mineros",
+                    "variations": [
+                        {
+                            "id": 10171,
+                            "concept": "Costo del servicio",
+                            "description": "Inscripci\u00f3n de Contratos Diversos de Derechos Mineros",
+                            "price": "50900.00",
+                            "required": 0,
+                            "coin": {
+                                "id": 2,
+                                "name": "Pesos",
+                                "short_name": "DOP",
+                                "symbol": "RD$",
+                                "created_at": "2022-08-29T21:22:21.000000Z",
+                                "updated_at": "2022-08-29T21:22:21.000000Z",
+                                "deleted_at": null
+                            },
+                            "days": 10,
+                            "hours": 0,
+                            "months": 0
+                        }
+                    ]
+                }
+            ],
+            "institution_logo": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/14469a3c-93a2-4680-9b55-8220a4203a97-cupula.png",
+            "institution_phone": "8096858191",
+            "service_type": "Interactivo",
+            "show_default": null,
+            "evaluation": null,
+            "sort_order": "0.00",
+            "punto_gob": [],
+            "classified": []
+        },
+        {
+            "service_code": null,
+            "area_service": {
+                "id": 148,
+                "name": "Presidencia",
+                "slug": "Presidencia",
+                "description": "Gesti\u00f3n de las pol\u00edticas presidenciales de gobierno.",
+                "created_at": "2023-03-05T21:52:28.000000Z",
+                "updated_at": "2023-10-20T18:23:11.000000Z",
+                "deleted_at": null,
+                "view_number": 0,
+                "image": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/af3ef1cc-fb65-42cf-b1f1-4d3811863ad5-Presidencia_2x.png",
+                "image_movil": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/66ee59c1-3727-4d55-8888-9571b732e0f6-Presidencia_2x.png"
+            },
+            "slug": "cartas-de-aprobacion-nacional-para-proyectos-del-mecanismo-de-desarrollo-limpio",
+            "service_name": "Cartas de Aprobacio\u0301n Nacional para Proyectos del Mecanismo de Desarrollo Limpio",
+            "institution_name": "Consejo Nacional para el Cambio Clim\u00e1tico y Mecanismo de Desarrollo Limpio",
+            "description": "Emitir cartas de Aprobaci\u00f3n Nacional para proyectos del Mecanismo de Desarrollo Limpio (MDL). Esta carta es entregada luego que el desarrollador del proyecto cumpla con todos los requisitos requeridos en el Documento de Dise\u00f1o del Proyecto (PDD en ingl\u00e9s).",
+            "visited": 97,
+            "is_chained": 0,
+            "is_web_mode": 1,
+            "is_phone_mode": 1,
+            "is_person_mode": 0,
+            "price": [
+                {
+                    "id": 8140,
+                    "concept": "Costo del Servicio",
+                    "description": "Cartas de Aprobacio\u0301n Nacional para Proyectos del Mecanismo de Desarrollo Limpio",
+                    "variations": [
+                        {
+                            "id": 10142,
+                            "concept": "gratis",
+                            "description": "Cartas de Aprobacio\u0301n Nacional para Proyectos del Mecanismo de Desarrollo Limpio",
+                            "price": "0.00",
+                            "required": 0,
+                            "coin": {
+                                "id": 2,
+                                "name": "Pesos",
+                                "short_name": "DOP",
+                                "symbol": "RD$",
+                                "created_at": "2022-08-29T21:22:21.000000Z",
+                                "updated_at": "2022-08-29T21:22:21.000000Z",
+                                "deleted_at": null
+                            },
+                            "days": 30,
+                            "hours": 0,
+                            "months": 0
+                        }
+                    ]
+                }
+            ],
+            "institution_logo": "https:\/\/buckets.storage.ogtic.gob.do\/gob-do-prod\/418ad635-e537-4d73-abab-c7f11f20b1bc-b5418d92-e79c-4279-be14-b23bc9f794b1-cupula.png",
+            "institution_phone": "8094720537",
+            "service_type": "Interactivo",
+            "show_default": null,
+            "evaluation": null,
+            "sort_order": "0.00",
+            "punto_gob": [],
+            "classified": []
+        }
+    ],
+    "links": {
+        "first": "https:\/\/gob-do-api.www.gob.do\/api\/v2\/portals\/services?page=1",
+        "last": "https:\/\/gob-do-api.www.gob.do\/api\/v2\/portals\/services?page=161",
+        "prev": null,
+        "next": "https:\/\/gob-do-api.www.gob.do\/api\/v2\/portals\/services?page=2"
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 161,
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Anterior",
+                "active": false
+            },
+            {
+                "url": "https:\/\/gob-do-api.www.gob.do\/api\/v2\/portals\/services?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": "https:\/\/gob-do-api.www.gob.do\/api\/v2\/portals\/services?page=2",
+                "label": "2",
+                "active": false
+            },
+            {
+                "url": "https:\/\/gob-do-api.www.gob.do\/api\/v2\/portals\/services?page=3",
+                "label": "3",
+                "active": false
+            },
+            {
+                "url": "https:\/\/gob-do-api.www.gob.do\/api\/v2\/portals\/services?page=4",
+                "label": "4",
+                "active": false
+            },
+            {
+                "url": "https:\/\/gob-do-api.www.gob.do\/api\/v2\/portals\/services?page=5",
+                "label": "5",
+                "active": false
+            },
+            {
+                "url": "https:\/\/gob-do-api.www.gob.do\/api\/v2\/portals\/services?page=6",
+                "label": "6",
+                "active": false
+            },
+            {
+                "url": "https:\/\/gob-do-api.www.gob.do\/api\/v2\/portals\/services?page=7",
+                "label": "7",
+                "active": false
+            },
+            {
+                "url": "https:\/\/gob-do-api.www.gob.do\/api\/v2\/portals\/services?page=8",
+                "label": "8",
+                "active": false
+            },
+            {
+                "url": "https:\/\/gob-do-api.www.gob.do\/api\/v2\/portals\/services?page=9",
+                "label": "9",
+                "active": false
+            },
+            {
+                "url": "https:\/\/gob-do-api.www.gob.do\/api\/v2\/portals\/services?page=10",
+                "label": "10",
+                "active": false
+            },
+            {
+                "url": null,
+                "label": "...",
+                "active": false
+            },
+            {
+                "url": "https:\/\/gob-do-api.www.gob.do\/api\/v2\/portals\/services?page=160",
+                "label": "160",
+                "active": false
+            },
+            {
+                "url": "https:\/\/gob-do-api.www.gob.do\/api\/v2\/portals\/services?page=161",
+                "label": "161",
+                "active": false
+            },
+            {
+                "url": "https:\/\/gob-do-api.www.gob.do\/api\/v2\/portals\/services?page=2",
+                "label": "Siguiente &raquo;",
+                "active": false
+            }
+        ],
+        "path": "https:\/\/gob-do-api.www.gob.do\/api\/v2\/portals\/services",
+        "per_page": "12",
+        "to": 12,
+        "total": 1927
+    }
+}

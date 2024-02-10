@@ -19,4 +19,3 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
 main = 'main:main'
-ollama = 'main:ollama'
