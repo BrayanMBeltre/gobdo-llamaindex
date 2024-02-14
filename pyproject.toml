@@ -11,6 +11,9 @@ requests = "^2.31.0"
 llama-index = "^0.9.46"
 transformers = "^4.37.2"
 torch = "^2.2.0"
+qdrant-client = "^1.7.3"
+flask = "^3.0.2"
+flask-cors = "^4.0.0"
 
 
 [build-system]

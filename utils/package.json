@@ -5,5 +5,8 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.11.17"
+  },
+  "dependencies": {
+    "meilisearch": "^0.37.0"
   }
 }

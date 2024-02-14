@@ -1,28 +1,47 @@
+from socket import timeout
+import time
+from llama_index.llms import Ollama
 from pathlib import Path
-from llama_index import SimpleDirectoryReader, download_loader
-from llama_index.llama_pack import download_llama_pack
-from ollama_pack.base import OllamaQueryEnginePack
-
-# load in some sample data
-
-# data = requests.get("https://gob-do-api.www.gob.do/api/v2/portals/services").json()
-# JsonDataReader = download_loader("JsonDataReader")
-# loader = JsonDataReader()
-# documents = loader.load_data(data)
-
-# reader = SimpleDirectoryReader(input_files=["paul_graham_essay.txt"])
-# documents = reader.load_data()
-
-JSONReader = download_loader("JSONReader")
-loader = JSONReader()
-documents = loader.load_data(Path("./data.json"))
-
-# download and install dependencies
-ollamaQueryPack = download_llama_pack("OllamaQueryEnginePack", "./ollama_pack")
-
-# You can use any llama-hub loader to get documents!
-ollama_pack = ollamaQueryPack(model="mistral", documents=documents)
-response = ollama_pack.run(
-    "cual es el numero del Consejo Nacional de Zonas Francas de Exportación?"
+import qdrant_client
+from llama_index import (
+    VectorStoreIndex,
+    ServiceContext,
+    download_loader,
 )
-print(str(response))
+from llama_index.llms import Ollama
+from llama_index.storage.storage_context import StorageContext
+from llama_index.vector_stores.qdrant import QdrantVectorStore
+import torch
+
+
+def main():
+    start_time = time.time()
+
+    # JSONReader = download_loader("JSONReader")
+    # loader = JSONReader()
+    # documents = loader.load_data(Path("./data.json"))
+
+    client = qdrant_client.QdrantClient(path="./qdrant_data")
+    vector_store = QdrantVectorStore(client=client, collection_name="services")
+    # storage_context = StorageContext.from_defaults(vector_store=vector_store)
+
+    llm = Ollama(model="llama2")
+    service_context = ServiceContext.from_defaults(llm=llm, embed_model="local")
+
+    index = VectorStoreIndex.from_vector_store(
+        vector_store=vector_store, service_context=service_context
+    )
+    query_engine = index.as_query_engine(similarity_top_k=20, streaming=True)
+    streaming_response = query_engine.query(
+        "A cual institucion pertenece el numero 8096868077",
+    )
+
+    streaming_response.print_response_stream()
+
+    end_time = time.time()
+    processing_time = end_time - start_time
+    print(f"Processing time: {processing_time} seconds")
+
+
+if __name__ == "__main__":
+    main()
